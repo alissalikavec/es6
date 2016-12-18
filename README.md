@@ -1,3 +1,3 @@
- # ES6 tests!
+#ES6 Tests!
 
-Explanations, examples and resources about ES6. Built using Mocha and Babel 6.
+Explanations, examples and resources about ES6 features. Built using Mocha and Babel 6.
